@@ -33,17 +33,17 @@ Total issuance: 100000000000
 1. 1‰ of the reward transfer amount will be sent to the sender
 
 # Route map
-# 1. 2022/5 ~ 2022/6
+# 1. 2022/11 ~ 2022/12
    Start the project, the total number of holding addresses reaches 1,000,000
-# 2. 2022/7 ~ 2022/8
+# 2. 2023/1 ~ 2023/2
    Launched official website, issued NFT, launched Metaverse games, launched NFT DEFI exchange
-# 3. 2022/9 ~ 2022/9
+# 3. 2023/3 ~ 2023/3
    Online Developer Agreement
-# 4. 2022/10 ~ 2022/12
+# 4. 2023/4 ~ 2023/6
    Online GFI pledge to obtain income, open DAO
-# 5. 2023/1 ~ 2023/6
+# 5. 2023/7 ~ 2023/12
    Cross-chain, develop ecology
-# 6. 2023/07 ~
+# 6. 2024/1 ~
    development ecology
 
 
