@@ -1,5 +1,5 @@
 # GFI
-GFI is an open NFT and DeFi cross-chain gaming platform. Developers can quickly build their own Dapp based on the platform. Currently built on HECO, it will be built on more public chains with high TPS and low transaction fees in the future.
+GFI is an open NFT and DeFi Cross-chain gaming platform. Developers can quickly build their own Dapp based on the platform. Currently built on HECO, it will be built on more public chains with high TPS and low transaction fees in the future.
 
 # Platform framework
 1. All DAPPs will use GFI.
